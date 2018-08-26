@@ -4,7 +4,7 @@
 
 ### Implementing Wake-on-LAN with Node.js
 
-**Repository**: [Github](https://github.com/hunterparks/talks/tree/js-in-the-real-world)
+**Repository**: [Github](https://github.com/hunterparks/talks/tree/master/js-in-the-real-world)
 
 **History**:
 
